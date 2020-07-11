@@ -5,7 +5,7 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<title>LitePlayer</title>
 
-	<link rel="stylesheet" href="src/liteplayer.css">
+	<link rel="stylesheet" href="src/liteplayer.css" />
 </head>
 <body>
 
