@@ -15,7 +15,7 @@
 	<script>
 		var player = new LitePlayer({
 			container: '#player',
-			src: 'ebony.mp4',
+			src: 'none',
 			autoplay:true
 		});
 	</script>
